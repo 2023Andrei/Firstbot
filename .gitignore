@@ -1,0 +1,7 @@
+# freqtrade files
+__pycache__/
+*.pyc
+config.json
+*.sqlite
+*.db
+.env
